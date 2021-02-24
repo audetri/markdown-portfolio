@@ -1,1 +1,1 @@
-![Image of Packmancat] (https://octodex.github.com/images/pacman-ghosts.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
